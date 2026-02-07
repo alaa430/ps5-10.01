@@ -9,7 +9,7 @@ const container_json = {
           "icon": "\\uF13E",
           "dev": "By LM(LightningMods)",
           "desc": "etaHEN - AIO Homebrew enabler",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/etahen/etaHEN-2.5B.bin"
         },
         {
@@ -17,7 +17,7 @@ const container_json = {
           "icon": "\\uF13E",
           "dev": "By LM(LightningMods)",
           "desc": "etaHEN - AIO Homebrew enabler",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/etahen/etaHEN-2.4B.bin"
         },
         {
@@ -79,7 +79,7 @@ const container_json = {
           "icon": "\\uF09C",
           "dev": "By sleirsgoevy/EchoStretch",
           "desc": "Homebrew enabler,Can Install and Run PS4 FPKGs,Support Dump Installer and Run PS4/5 Dump Games",
-          "fw": ["3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/kstuff/kstuff-1.6.7.elf"
         },
         {
@@ -87,7 +87,7 @@ const container_json = {
           "icon": "\\uF09C",
           "dev": "By sleirsgoevy/EchoStretch",
           "desc": "Homebrew enabler,Can Install and Run PS4 FPKGs,Support Dump Installer and Run PS4/5 Dump Games<br>This Payload Doesnt Need kstuff Toggle for running some Games",
-          "fw": ["3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/kstuff/kstuff-lite-1.00.elf"
         },
         {
@@ -95,7 +95,7 @@ const container_json = {
           "icon": "\\uF09C",
           "dev": "By sleirsgoevy/EchoStretch",
           "desc": "Homebrew enabler,Can Install and Run PS4 FPKGs, Run PS4/5 Dump Games",
-          "fw": ["3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/kstuff/kstuff-1.6.6.elf"
         },
         {
@@ -117,7 +117,7 @@ const container_json = {
           "icon": "\\uF6FF",
           "dev": "By john-tornblom",
           "desc": "A simple web server for jailbroken PS5s that accepts connections on port 8080",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/websrv-ps5.elf"
         },
         {
@@ -125,7 +125,7 @@ const container_json = {
           "icon": "\\uF706", 
           "dev": "by BestPig",
           "desc": "Lets you sideload system libraries into PS5 games",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/ps5-backpork.elf"
         },
         {
@@ -133,7 +133,7 @@ const container_json = {
           "icon": "\\uF017", 
           "dev": "by VoidWhisper",
           "desc": "Auto Toggle kstuff Payload",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/sentinel_warden_installer.elf"
         },
         {
@@ -141,7 +141,7 @@ const container_json = {
           "icon": "\\uF56D", 
           "dev": "by VoidWhisper/Jamzi",
           "desc": "ShadowMount automatically detects, mounts, and installs game dumps from both internal and external storage.<br>Supports all Jailbroken PS5 firmwares running Kstuff v1.6.7",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/shadowmount.elf"
         },
         {
@@ -149,7 +149,7 @@ const container_json = {
           "icon": "\\uF883",
           "dev": "By john-tornblom",
           "desc": "A simple FTP server for jailbroken PS5s. The FTP server accepts connection on port 2121.",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/ftpsrv-ps5.elf"
         },
         {
@@ -157,7 +157,7 @@ const container_json = {
           "icon": "\\uF310",
           "dev": "By john-tornblom",
           "desc": "An ELF loader for jailbroken PS5s that accepts payloads on port 9021",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/elfldr-ps5.elf"
         },
       ]
@@ -179,7 +179,7 @@ const container_json = {
           "icon": "\\uF205", 
           "dev": "By EchoStretch",
           "desc": "Boost homebrew game performance on your PS5 by disabling Kstuff after launching the game.<br>Requires sending the payload via netcat or using the Homebrew Launcher with the Websrv payload.",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/kstuff-toggle-3.elf"
         },
         {
@@ -187,7 +187,7 @@ const container_json = {
           "icon": "\\uF205", 
           "dev": "By EchoStretch",
           "desc": "Boost homebrew game performance on your PS5 by disabling Kstuff after launching the game.<br>Requires sending the payload via netcat or using the Homebrew Launcher with the Websrv payload.",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/kstuff-toggle-1.elf"
         },
         {
@@ -195,7 +195,7 @@ const container_json = {
           "icon": "\\uF205", 
           "dev": "By EchoStretch",
           "desc": "Boost homebrew game performance on your PS5 by disabling Kstuff after launching the game.<br>Requires sending the payload via netcat or using the Homebrew Launcher with the Websrv payload.",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/kstuff-toggle-2.elf"
         },
         {
@@ -203,7 +203,7 @@ const container_json = {
           "icon": "\\uF5AC", 
           "dev": "By earthonion",
           "desc": "Sets PSN state to \"signed in\" on PS5<br>First use offact homebrew to active your user,Then use this payload",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/np-fake-signin-ps4.elf"
         },
         {
@@ -211,7 +211,7 @@ const container_json = {
           "icon": "\\uF1C9",
           "dev": "By john-tornblom",
           "desc": "A simple GDB server for jailbroken PS4s and PS5s,The server accepts connections on port 2159",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/gdbsrv-ps5.elf"
         },
         {
@@ -219,7 +219,7 @@ const container_json = {
           "icon": "\\uF1C9",
           "dev": "By john-tornblom",
           "desc": "A simple socket server for jailbroken PS4s and PS5s that redirects /dev/klog to sockets connected on port 3232",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/klogsrv-ps5.elf"
         },
         {
@@ -227,7 +227,7 @@ const container_json = {
           "icon": "\\uF1C9",
           "dev": "By john-tornblom",
           "desc": "A simple telnet-like shell server for jailbroken PS5s that accepts connections on port 2323",
-          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.01"],
+          "fw": ["1.xx","2.xx","3.xx","4.xx", "5.xx", "6.xx", "7.xx", "8.xx","9.xx","10.00","10.xx"],
           "path": "payloads/tools/shsrv-ps5.elf"
         },
         {
